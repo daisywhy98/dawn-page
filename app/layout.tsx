@@ -30,7 +30,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <DjHeader></DjHeader>
-        <div className="h-[calc(100vh-300px)]">
+        <div className="h-[calc(100vh-336px)]">
           {children}
         </div>
 
