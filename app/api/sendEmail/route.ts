@@ -1,7 +1,8 @@
-export const runtime = "nodejs"; 
+export const runtime = "nodejs";
 
 import { NextResponse } from "next/server";
 import nodemailer from "nodemailer";
+
 
 
 // 配置你的邮件服务（这里使用 Gmail）
