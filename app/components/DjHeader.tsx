@@ -9,7 +9,7 @@ const DjHeader = () => {
         <div className='w-full h-48 p-6' style={{ backgroundImage: "url('/images/rotating-galex-6.gif')", backgroundSize: "100% auto", 
             backgroundPosition: "center", 
             backgroundRepeat: "no-repeat"  }}>
-            <div className="text-3xl font-bold text-green-200">Welcome to Dawn's website</div>
+            <div className="text-3xl font-bold text-green-200">Welcome to Dawn&apos;s website</div>
             <div className='flex flex-row items-center justify-between'>
             <CurrentTime></CurrentTime>
             <Population></Population>
